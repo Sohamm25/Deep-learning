@@ -8,7 +8,7 @@ This repository contains a collection of deep learning projects and Jupyter note
 2. **GRE Score Prediction**: A model that predicts GRE scores using features such as previous academic performance.
 3. **MNIST Digit Classification**: A CNN model to classify handwritten digits from the MNIST dataset.
 
-## Requirements
+## Requirements 
 
 - Python 3.x
 - Jupyter Notebook
